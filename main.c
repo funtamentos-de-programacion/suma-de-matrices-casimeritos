@@ -1,5 +1,7 @@
 #include <stdio.h>
 #define TAM 100
+// Autores:
+//Guerra Cordova Emiliano lista 20, Barajas Flores Alejandra lista:3
 
 int main(){
   int a[TAM][TAM], b[TAM][TAM], c[TAM][TAM];
